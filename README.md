@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="CivicLedgerlogo.png" alt="Logo" width="150px" height="150px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</p>
+
 # CivicLedger
 
 **CivicLedger** is a decentralized voting platform that leverages blockchain technology to bring transparency, security, and trust to the electoral process. With CivicLedger, elections are conducted on a tamper-proof and publicly verifiable blockchain, ensuring integrity and fairness in every vote.
