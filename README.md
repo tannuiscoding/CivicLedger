@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CivicLedgerlogo.png" alt="Logo" width="150px" height="150px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="CivicLedgerLOGO.png" alt="Logo" width="150px" height="150px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </p>
 
 # CivicLedger
